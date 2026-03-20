@@ -41,13 +41,23 @@ Role-based intelligent transport tracking prototype.
 
 ## Skills
 
-- **Languages:** Java, Python, C, JavaScript
-- **Web:** HTML, CSS, React
-- **Backend:** Spring Boot, REST APIs
-- **Databases:** MySQL, Neo4j
-- **Machine Learning:** Pandas, NumPy, scikit-learn, Random Forest, regression, feature engineering
-- **Core Concepts:** Data Structures, OOP, DBMS, Computer Networks
-- **Tools:** Git, Matplotlib, Joblib, Excel, Power BI
+<p>
+  <img src="https://img.shields.io/badge/Java-2B2B2B?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+- **Core concepts:** Data Structures, OOP, DBMS, Computer Networks, REST APIs
+- **ML tools:** Pandas, NumPy, Random Forest, regression, feature engineering, Matplotlib, Joblib
+- **Other tools:** Excel, Power BI
 
 ## GitHub Stats
 
