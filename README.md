@@ -56,12 +56,21 @@ Role-based intelligent transport tracking prototype.
 - **ML tools:** Pandas, NumPy, Random Forest, regression, feature engineering, Matplotlib, Joblib
 - **Other tools:** Excel, Power BI
 
-## GitHub Stats
+## GitHub Overview
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anmol-228&show_icons=true&hide_border=true&title_color=1F6FEB&icon_color=A855F7&text_color=E6EDF3&bg_color=0D1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmol-228&layout=compact&hide_border=true&title_color=6D1B27&text_color=C9D1D9&bg_color=00000000" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anmol-228&theme=github_dark" />
 </div>
+
+## Language Overview
+
+<div align="center">
+  <img height="260" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmol-228&layout=pie&langs_count=12&hide_border=true&title_color=1F6FEB&text_color=E6EDF3&bg_color=0D1117&size_weight=0.5&count_weight=0.5" />
+</div>
+
+<p align="center">
+  Based on public, non-forked repositories and updates automatically as the profile changes.
+</p>
 
 ## Current Direction
 
