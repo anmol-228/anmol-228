@@ -65,11 +65,11 @@ Role-based intelligent transport tracking prototype.
 ## Language Overview
 
 <div align="center">
-  <img height="260" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmol-228&layout=pie&langs_count=12&hide_border=true&title_color=1F6FEB&text_color=E6EDF3&bg_color=0D1117&size_weight=0.5&count_weight=0.5" />
+  <img width="52%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmol-228&layout=pie&langs_count=20&hide_border=true&title_color=1F6FEB&text_color=E6EDF3&bg_color=0D1117&size_weight=0.45&count_weight=0.55&hide=jupyter%20notebook" />
 </div>
 
 <p align="center">
-  Based on public, non-forked repositories and updates automatically as the profile changes.
+  Auto-updates from public, non-forked repositories. Language share is based on detected code volume, so smaller amounts of Java may not appear unless more public Java code is present.
 </p>
 
 ## Current Direction
