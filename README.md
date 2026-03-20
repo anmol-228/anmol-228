@@ -1,81 +1,62 @@
 <div align="center">
-  <img src="assets/profile-banner.svg" alt="anmol-228 banner" width="100%" />
+  <img src="assets/profile-banner.svg" alt="Anmol Trivedi banner" width="100%" />
 </div>
 
-<h1 align="center">Hi, I'm Anmol</h1>
+<h1 align="center">Anmol Trivedi</h1>
 <p align="center">
-  I build full-stack products with a strong focus on practical machine learning, clean backend design, and polished user-facing systems.
+  Computer Science undergraduate focused on software development, full-stack systems, and practical machine learning.
 </p>
 
 <p align="center">
-  <a href="https://github.com/anmol-228?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View%20All-7B1E2B?style=for-the-badge" /></a>
-  <a href="https://github.com/anmol-228/RentAFit-ML"><img src="https://img.shields.io/badge/Flagship-RentAFit--ML-2B2B2B?style=for-the-badge" /></a>
-  <img src="https://img.shields.io/badge/Focus-Production%20Ready%20Builds-4CAF7D?style=for-the-badge" />
+  Kolkata, West Bengal, India ·
+  <a href="https://github.com/anmol-228?tab=repositories">Repositories</a> ·
+  <a href="https://github.com/anmol-228/RentAFit-ML">RentAFit-ML</a>
 </p>
 
 ## About Me
 
-- Building **RentAFit**, a fashion-rental platform with pricing, moderation, and recommendation systems.
-- Comfortable across **Python, Java, Spring Boot, React, FastAPI, PyTorch, scikit-learn, and PostgreSQL**.
-- Interested in turning strong ML work into clean, usable product flows.
-- I like projects that combine **system design, real-world logic, and implementation depth**.
+- B.Tech CSE student at **Amity University, Kolkata (2023–2027)** with a **CGPA of 9.26**.
+- Interested in building scalable software systems and using analytical thinking to solve real-world problems.
+- Comfortable across **Java, Python, C, JavaScript, HTML, CSS, React, Spring Boot, MySQL, and Neo4j**.
+- Also work with **Pandas, NumPy, scikit-learn, Random Forest, feature engineering, and REST APIs**.
 
-## Current Focus
+## Experience
 
-- finishing the backend and product integration for **RentAFit**
-- keeping the ML layer reproducible, documented, and deployment-ready
-- strengthening end-to-end flows from model output to actual product behavior
+### Research Intern — ISRIP, Amity University
+- Worked with **Neo4j, Cypher, and graph databases**.
+- Built graph-based data models using datasets such as **IMDb Top 100 Movies** and **Spotify Top 100 Songs**.
+- Studied recommendation-system literature and explored graph-based recommendation design.
 
-## Featured Work
+## Projects
 
-### RentAFit-ML
-**Machine learning layer for RentAFit**
-
-Includes:
-- **Model A**: clothing rental price range prediction
-- **Model B**: hybrid moderation and listing lifecycle model
-- **Model C**: policy-aware recommendation system
-
-Repository:
+### RentAFit
+ML-powered fashion rental platform with pricing, moderation, and recommendation systems.
 - [RentAFit-ML](https://github.com/anmol-228/RentAFit-ML)
 
-## Tech Stack
+### Sahayatri
+Role-based intelligent transport tracking prototype.
+- Built with **HTML, CSS, JavaScript, Bootstrap, OpenStreetMap (Leaflet), MySQL, and Spring Boot**.
+- Focused on route discovery, bus tracking, and scalable transport-system design.
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-2B2B2B?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-7B1E2B?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+## Skills
 
-## Project Snapshot
-
-| Area | What I'm building |
-| --- | --- |
-| ML | pricing, moderation, and recommendation systems |
-| Backend | Spring Boot application services and API flows |
-| Frontend | product-facing renter and lender experiences |
-| Product direction | turning model outputs into real platform workflows |
+- **Languages:** Java, Python, C, JavaScript
+- **Web:** HTML, CSS, React
+- **Backend:** Spring Boot, REST APIs
+- **Databases:** MySQL, Neo4j
+- **Machine Learning:** Pandas, NumPy, scikit-learn, Random Forest, regression, feature engineering
+- **Core Concepts:** Data Structures, OOP, DBMS, Computer Networks
+- **Tools:** Git, Matplotlib, Joblib, Excel, Power BI
 
 ## GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=anmol-228&show_icons=true&hide_border=true&title_color=7B1E2B&icon_color=7B1E2B&text_color=2B2B2B&bg_color=FFF8F2" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmol-228&layout=compact&hide_border=true&title_color=7B1E2B&text_color=2B2B2B&bg_color=FFF8F2" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anmol-228&show_icons=true&hide_border=true&title_color=6D1B27&icon_color=6D1B27&text_color=C9D1D9&bg_color=00000000" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmol-228&layout=compact&hide_border=true&title_color=6D1B27&text_color=C9D1D9&bg_color=00000000" />
 </div>
 
-## Working Style
+## Current Direction
 
-- strong preference for structured systems over one-off demos
-- documentation-heavy builds so projects stay explainable and reproducible
-- practical engineering with attention to both technical depth and product polish
-
-## Let's Connect Through Work
-
-The best way to understand what I’m building is through the repositories themselves. Start here:
-- [RentAFit-ML](https://github.com/anmol-228/RentAFit-ML)
+- strengthening full-stack project work across backend, frontend, and data systems
+- building more production-ready ML-backed applications
+- improving system design, API development, and real-world software workflows
