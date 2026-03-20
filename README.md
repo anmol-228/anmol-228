@@ -2,7 +2,6 @@
   <img src="assets/profile-banner.svg" alt="Anmol Trivedi banner" width="100%" />
 </div>
 
-<h1 align="center">Anmol Trivedi</h1>
 <p align="center">
   Computer Science undergraduate focused on software development, full-stack systems, and practical machine learning.
 </p>
@@ -31,7 +30,10 @@
 
 ### RentAFit
 ML-powered fashion rental platform with pricing, moderation, and recommendation systems.
-- [RentAFit-ML](https://github.com/anmol-228/RentAFit-ML)
+- Built around **price prediction, listing moderation, and renter-side recommendation flows**.
+- Connects **Python-based ML pipelines** with broader product integration work around **React and Spring Boot**.
+- Focused on safe predictions, lifecycle-aware moderation, and explainable recommendation behavior.
+- Repository: [RentAFit-ML](https://github.com/anmol-228/RentAFit-ML)
 
 ### Sahayatri
 Role-based intelligent transport tracking prototype.
