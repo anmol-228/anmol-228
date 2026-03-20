@@ -1,7 +1,7 @@
-<svg width="1280" height="220" viewBox="0 0 1280 220" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1280" height="220" rx="24" fill="#FBF6F1"/>
-  <path d="M88 64H228" stroke="#7B1E2B" stroke-width="3.5" stroke-linecap="round" opacity="0.72"/>
-  <text x="88" y="112" fill="#2F2A28" font-size="28" font-family="Arial, Helvetica, sans-serif">Computer Science undergraduate building full-stack and ML-backed systems</text>
-  <text x="88" y="148" fill="#625B57" font-size="18" font-family="Arial, Helvetica, sans-serif">Kolkata, India • Java • Python • HTML • CSS • JavaScript • MySQL • Spring Boot • React</text>
-  <text x="88" y="178" fill="#7B1E2B" font-size="16" font-family="Arial, Helvetica, sans-serif">Software development • backend systems • practical machine learning</text>
+<svg width="1280" height="240" viewBox="0 0 1280 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="240" rx="24" fill="#FBF6F1"/>
+  <path d="M88 58H228" stroke="#7B1E2B" stroke-width="3.5" stroke-linecap="round" opacity="0.72"/>
+  <text x="88" y="112" fill="#6D1B27" font-size="44" font-family="Georgia, Times New Roman, serif" font-style="italic">Anmol Trivedi</text>
+  <text x="88" y="152" fill="#2F2A28" font-size="24" font-family="Arial, Helvetica, sans-serif">Computer Science undergraduate building full-stack and ML-backed systems</text>
+  <text x="88" y="188" fill="#625B57" font-size="18" font-family="Arial, Helvetica, sans-serif">Kolkata, West Bengal, India • Java • Python • HTML • CSS • JavaScript • MySQL • Spring Boot • React</text>
 </svg>

@@ -2,13 +2,7 @@
   <img src="assets/profile-banner.svg" alt="Anmol Trivedi banner" width="100%" />
 </div>
 
-<h1 align="center">Anmol Trivedi</h1>
 <p align="center">
-  Computer Science undergraduate focused on software development, full-stack systems, and practical machine learning.
-</p>
-
-<p align="center">
-  Kolkata, West Bengal, India ·
   <a href="https://github.com/anmol-228?tab=repositories">Repositories</a> ·
   <a href="https://github.com/anmol-228/RentAFit-ML">RentAFit-ML</a>
 </p>
