@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/profile-banner.svg" alt="Anmol Trivedi banner" width="100%" />
+  <img src="assets/profile-banner-v2.svg" alt="Anmol Trivedi banner" width="100%" />
 </div>
 
 <p align="center">

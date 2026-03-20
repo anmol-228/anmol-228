@@ -1,0 +1,11 @@
+<svg width="1280" height="220" viewBox="0 0 1280 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="220" rx="24" fill="#0D1117"/>
+  <rect x="0.5" y="0.5" width="1279" height="219" rx="23.5" stroke="#30363D"/>
+
+  <path d="M88 56H236" stroke="#1F6FEB" stroke-width="3" stroke-linecap="round"/>
+  <path d="M1046 56H1192" stroke="#A855F7" stroke-width="3" stroke-linecap="round" opacity="0.9"/>
+
+  <text x="88" y="106" fill="#E6EDF3" font-size="42" font-family="Georgia, Times New Roman, serif" font-style="italic">Anmol Trivedi</text>
+  <text x="88" y="144" fill="#E6EDF3" font-size="22" font-family="Arial, Helvetica, sans-serif">Computer Science undergraduate building full-stack and ML-backed systems</text>
+  <text x="88" y="176" fill="#9CA3AF" font-size="17" font-family="Arial, Helvetica, sans-serif">Java • Python • HTML • CSS • JavaScript • MySQL • Spring Boot • React</text>
+</svg>
