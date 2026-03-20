@@ -1,10 +1,10 @@
 <svg width="1280" height="240" viewBox="0 0 1280 240" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1280" height="240" rx="24" fill="#F8F9FB"/>
-  <rect x="0" y="0" width="1280" height="240" rx="24" stroke="#E5E7EB"/>
-  <path d="M88 58H238" stroke="#374151" stroke-width="3" stroke-linecap="round"/>
-  <text x="88" y="112" fill="#111827" font-size="44" font-family="Georgia, Times New Roman, serif" font-style="italic">Anmol Trivedi</text>
-  <text x="88" y="152" fill="#1F2937" font-size="24" font-family="Arial, Helvetica, sans-serif">Computer Science undergraduate building full-stack and ML-backed systems</text>
-  <text x="88" y="188" fill="#4B5563" font-size="18" font-family="Arial, Helvetica, sans-serif">Kolkata, West Bengal, India • Java • Python • HTML • CSS • JavaScript • MySQL • Spring Boot • React</text>
-  <circle cx="1180" cy="48" r="64" fill="#EEF2F7"/>
-  <circle cx="1226" cy="196" r="86" fill="#F1F5F9"/>
+  <rect width="1280" height="240" rx="24" fill="#0D1117"/>
+  <rect x="0.5" y="0.5" width="1279" height="239" rx="23.5" stroke="#30363D"/>
+  <circle cx="1180" cy="54" r="74" fill="#1F6FEB" fill-opacity="0.12"/>
+  <circle cx="1218" cy="196" r="96" fill="#A855F7" fill-opacity="0.08"/>
+  <path d="M88 58H248" stroke="#1F6FEB" stroke-width="3.5" stroke-linecap="round"/>
+  <text x="88" y="112" fill="#E6EDF3" font-size="44" font-family="Georgia, Times New Roman, serif" font-style="italic">Anmol Trivedi</text>
+  <text x="88" y="152" fill="#E6EDF3" font-size="24" font-family="Arial, Helvetica, sans-serif">Computer Science undergraduate building full-stack and ML-backed systems</text>
+  <text x="88" y="188" fill="#9CA3AF" font-size="18" font-family="Arial, Helvetica, sans-serif">Kolkata, West Bengal, India • Java • Python • HTML • CSS • JavaScript • MySQL • Spring Boot • React</text>
 </svg>
