@@ -39,17 +39,17 @@ Role-based intelligent transport tracking prototype.
 ## Skills
 
 <p>
-  <img src="https://img.shields.io/badge/Java-2B2B2B?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-374151?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-374151?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-374151?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-374151?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-374151?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-374151?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-374151?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-374151?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neo4j-374151?style=flat-square&logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-374151?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-374151?style=flat-square&logo=git&logoColor=white" />
 </p>
 
 - **Core concepts:** Data Structures, OOP, DBMS, Computer Networks, REST APIs
@@ -59,7 +59,7 @@ Role-based intelligent transport tracking prototype.
 ## GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anmol-228&show_icons=true&hide_border=true&title_color=6D1B27&icon_color=6D1B27&text_color=C9D1D9&bg_color=00000000" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anmol-228&show_icons=true&hide_border=true&title_color=374151&icon_color=374151&text_color=9CA3AF&bg_color=00000000" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anmol-228&layout=compact&hide_border=true&title_color=6D1B27&text_color=C9D1D9&bg_color=00000000" />
 </div>
 
