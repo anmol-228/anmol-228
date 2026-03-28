@@ -11,7 +11,7 @@
   <a href="https://github.com/anmol-228?tab=repositories">All repositories</a> ·
   <a href="https://github.com/anmol-228/RentAFit-ML">RentAFit-ML</a>
   ·
-  <a href="https://github.com/anmol-228/Sahayatri">Sahayatri</a>
+  <a href="https://github.com/anmol-228/RentAFit-Frontend">RentAFit-Frontend</a>
 </p>
 
 ## About Me
